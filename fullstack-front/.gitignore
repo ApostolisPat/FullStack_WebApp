@@ -21,7 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-*.html -linguist-detectable
-*.css -linguist-detectable
-*.js -linguist-detectable
