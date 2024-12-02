@@ -13,5 +13,5 @@ Update allows you to modify existing data and records within a table.
 - **Delete**  
 Delete allows you to remove records from a table.  
   
-TODO:  
-    Complete the README
+## Acknowledgment
+- [Code with Arjun on YT](https://www.youtube.com/@CodeWithArjun)
