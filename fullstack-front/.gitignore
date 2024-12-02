@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-*.html linguist-detectable=false
-*.js linguist-detectable=false
+*.html,*js linguist-detectable=false
+
